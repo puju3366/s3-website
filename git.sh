@@ -12,4 +12,4 @@ git commit -m "$message"
 read -p "Enter the branch name: " branch
 
 # Push to the specified branch
-git push origin $
+git push origin dev
